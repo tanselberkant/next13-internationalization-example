@@ -1,0 +1,39 @@
+{
+    "Index": {
+        "title": "Anasayfa!"
+    },
+    "About": {
+        "title": "Hakkımızda Sayfası"
+    },
+    "Contact": {
+        "title": "İletişim Sayfası"
+    },
+    "Posts": {
+        "title": "Blogs Sayfası"
+    },
+    "Courses": {
+        "title": "Eğitimler Sayfası"
+    },
+    "Navbar": {
+        "main": "Anasayfaya Dön",
+        "posts": "Blogs",
+        "about": "Hakkımızda",
+        "contact": "İletişim",
+        "courses": "Eğitimler"
+    },
+    "IndexMeta": {
+        "title": "Benim Sitem"
+    },
+    "CoursesMeta": {
+        "title": "Eğitimler"
+    },
+    "AboutMeta": {
+        "title": "Hakkimizda"
+    },
+    "PostsMeta": {
+        "title": "Blogs"
+    },
+    "ContactMeta": {
+        "title": "İletişim"
+    }
+}

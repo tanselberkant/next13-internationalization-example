@@ -1,0 +1,39 @@
+{
+    "Index": {
+        "title": "Home Page!"
+    },
+    "About": {
+        "title": "About Page"
+    },
+    "Contact": {
+        "title": "Contact Page"
+    },
+    "Posts": {
+        "title": "Posts Page"
+    },
+    "Courses": {
+        "title": "Courses Page"
+    },
+    "Navbar": {
+        "main": "Go Back To Main Page",
+        "posts": "Posts",
+        "about": "About",
+        "contact": "Contact",
+        "courses": "Courses"
+    },
+    "IndexMeta": {
+        "title": "My Site"
+    },
+    "CoursesMeta": {
+        "title": "Courses Page"
+    },
+    "AboutMeta": {
+        "title": "About Page"
+    },
+    "PostsMeta": {
+        "title": "Post Page"
+    },
+    "ContactMeta": {
+        "title": "Contact Page"
+    }
+}
