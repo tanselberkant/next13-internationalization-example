@@ -6,7 +6,7 @@ const withNextIntl = require('next-intl/plugin')(
 module.exports = withNextIntl({
     // Other Next.js configuration ...
     images: {
-        domains: ['images.pexels.com', 'test-api.rexven.com'],
+        domains: ['images.pexels.com'],
     }
 });
 
